@@ -1,4 +1,4 @@
-### Hi there 👋 I am Nira Kumar Tiwari
+### Hi there 👋 I am Niraj Kumar Tiwari
 
 <!--
 **nirajti/nirajti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
