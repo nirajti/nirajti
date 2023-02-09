@@ -1,4 +1,4 @@
-<img src="Niraj.jpeg" alt="Picture">
+<img src="Niraj.jpeg" alt="">
 <h1 align="center">Hi 👋, I'm Niraj Kumar Tiwari</h1>
 <h3 align="center">A Full Stack Web Development from India</h3>
 
