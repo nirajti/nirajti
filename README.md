@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niraj Kumar Tiwari</h1>
 <h3 align="center">A Full Stack Web Development from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png"> 
+<img align="right" alt="coding" width="400" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajti&label=Profile%20views&color=0e75b6&style=flat" alt="nirajti" /> </p>
 
