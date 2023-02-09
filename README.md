@@ -1,4 +1,4 @@
- i[Niraj](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
+i[logo](src="https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png")
 <h1 align="center">Hi 👋, I'm Niraj Kumar Tiwari</h1>
 <h3 align="center">A Full Stack Web Development from India</h3>
 
@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/niraj-kumar-tiwari-a966431b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niraj-kumar-tiwari-a966431b8/" height="30" width="40" /></a>
 <a href="https://fb.com/niraj kumar tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niraj kumar tiwari" height="30" width="40" /></a>
 <a href="https://instagram.com/nirajtiwari1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirajtiwari1122" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nirajtiwari242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nirajtiwari242" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/thecodehelp.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="thecodehelp.in" height="30" width="40" /></a>
 </p>
 
