@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **- 🌱 I’m currently learning Full Stack Web Development and DSA**
 
-- 📫 How to reach me **nirajtiwari329@gmail.com**
+- 📫 How to reach me
+- Phone call - 8674917360
+- **nirajtiwari329@gmail.com**
 
 - ⚡ Fun fact **Fun fact I am funny😅**
 
